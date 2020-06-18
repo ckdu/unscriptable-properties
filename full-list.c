@@ -1,4 +1,4 @@
-*/ game /*
+/* game */
 
 Class "DataModel"
 	Behavior
@@ -10,7 +10,7 @@ Class "DataModel"
 		"R15CollisionType" <Enum.R15CollisionType>
 
 
-*/ Services /*
+/* Services */
 
 Service "Workspace"
 	Behavior
@@ -317,7 +317,7 @@ Service "PathfindingService"
 		"AttributesReplicate" <string>
 
 
-*/ Service-Specific Instances /*
+/* Service-Specific Instances */
 
 Class "Camera" Workspace.CurrentCamera
 	Data
@@ -408,7 +408,7 @@ Class "ClientReplicator" NetworkClient.ClientReplicator
 		"AttributesReplicate" <string>
 
 
-*/ Character-Specific Instances /*
+/* Character-Specific Instances */
 
 Class "Motor6D" Player.Character[Multiple Descendants]
 	Animatable
@@ -459,4 +459,4 @@ Class "Accessory" Player.Character[Variant Accesory Name]
 	Data
 		"AttributesReplicate" <string>
 
-*/ Other Instances (Soon) /*
+/* Other Instances (Soon) */
