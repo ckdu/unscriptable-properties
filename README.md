@@ -1,4 +1,4 @@
-# unscriptable-properties
+# Unscriptable Properties
 Unscriptable properties for all instances, formatted.
 
 Includes two lists, one with all the unscriptable (hidden) properties of all instances, another without the repeated "AttributesReplicate", which is on every instance and serves little to no purpose.
