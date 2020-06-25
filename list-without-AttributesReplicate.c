@@ -76,6 +76,7 @@ Class "Player" Players.Player
 		"FollowUserIdReplicated" <int64>
 		"InternalCharacterAppearanceLoaded" <bool>
 		"MaxSimulationRadius" <float>
+		"SimulationRadius" <float>
 		"MembershipTypeReplicate" <Enum.MembershipType>
 		"ReplicatedLocaleId" <string>
 		"ReplicatedLocaleIdInternal" <string>
