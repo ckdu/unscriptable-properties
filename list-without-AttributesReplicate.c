@@ -40,10 +40,6 @@ Service "LocalizationService"
 		"LocaleManifest" <string>
 		"ShouldUseCloudTable" <bool>
 
-Service "TeleportService"
-	Data
-		"CustomizedTeleportUI" <bool>
-
 Service "InsertService"
 	Behavior
 		"AllowClientInsertModels" <bool>

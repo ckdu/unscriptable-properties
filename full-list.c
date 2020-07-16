@@ -136,7 +136,6 @@ Service "LocalizationService"
 Service "TeleportService"
 	Data
 		"AttributesReplicate" <string>
-		"CustomizedTeleportUI" <bool>
 
 Service "JointsService"
 	Data
