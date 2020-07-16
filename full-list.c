@@ -20,6 +20,7 @@ Service "Workspace"
 		"ExplicitAutoJoints" <bool>
 		"PhysicsSimulationRate" <nil>
 		"PhysicsSimulationRateReplicator" <Enum.PhysicsSimulationRate>
+		"SkinnedMeshEnabled" <Enum.SkinnedMeshAllowType>
 		"StreamingMinRadius" <int>
 		"StreamingPauseMode" <Enum.StreamingPauseMode>
 		"StreamingTargetRadius" <int>
@@ -135,6 +136,7 @@ Service "LocalizationService"
 Service "TeleportService"
 	Data
 		"AttributesReplicate" <string>
+		"CustomizedTeleportUI" <bool>
 
 Service "JointsService"
 	Data
