@@ -1,6 +1,6 @@
 # Unscriptable Properties
-Unscriptable properties for all instances, formatted.
-
-Includes two lists, one with all the unscriptable (hidden) properties of all instances, another without the repeated "AttributesReplicate", which is on every instance and serves little to no purpose.
-
-If you'd like to contribute to this project, feel free to contact me on Discord: Aim#3750
+Hidden/Unscriptable properties for all instances, formatted in JSON as 
+```json
+"Instance": [{"Property": "Data Type"}]
+```
+Does not include AttributesReplicate, AttributesSerialize, and Tags. Instances that only include those practically useless properties have been omitted, as they are in every one of them.

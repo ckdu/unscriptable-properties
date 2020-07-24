@@ -1,0 +1,1236 @@
+{
+  "WedgePart": [
+    {
+      "formFactorRaw": "Enum.FormFactor"
+    },
+    {
+      "DraggingV1": "boolean"
+    },
+    {
+      "NetworkOwnershipRule": "Enum.NetworkOwnership"
+    },
+    {
+      "NetworkIsSleeping": "boolean"
+    },
+    {
+      "size": "Vector3"
+    }
+  ],
+  "UserGameSettings": [
+    {
+      "StartScreenPosition": "Vector2"
+    },
+    {
+      "TouchCameraMovementChanged": "boolean"
+    },
+    {
+      "ComputerMovementChanged": "boolean"
+    },
+    {
+      "StartMaximized": "boolean"
+    },
+    {
+      "CompletedTutorials": "string"
+    },
+    {
+      "TouchMovementChanged": "boolean"
+    },
+    {
+      "gaID": "string"
+    },
+    {
+      "ComputerCameraMovementChanged": "boolean"
+    },
+    {
+      "StartScreenSize": "Vector2"
+    }
+  ],
+  "Motor6D": [
+    {
+      "ChildName": "string"
+    },
+    {
+      "ParentName": "string"
+    }
+  ],
+  "TextButton": [
+    {
+      "MouseButton2ClickConnectionCount": "number"
+    },
+    {
+      "MouseButton1DownConnectionCount": "number"
+    },
+    {
+      "MouseButton1ClickConnectionCount": "number"
+    },
+    {
+      "MouseWheelForwardConnectionCount": "number"
+    },
+    {
+      "MouseButton1UpConnectionCount": "number"
+    },
+    {
+      "DragStoppedConnectionCount": "number"
+    },
+    {
+      "IsNotOccluded": "boolean"
+    },
+    {
+      "ReplicatedInsertionOrder": "number"
+    },
+    {
+      "MouseButton2DownConnectionCount": "number"
+    },
+    {
+      "MouseButton2UpConnectionCount": "number"
+    },
+    {
+      "DragBeginConnectionCount": "number"
+    },
+    {
+      "MouseEnterConnectionCount": "number"
+    },
+    {
+      "MouseWheelBackwardConnectionCount": "number"
+    },
+    {
+      "Confidential": "boolean"
+    },
+    {
+      "MouseLeaveConnectionCount": "number"
+    },
+    {
+      "MouseMovedConnectionCount": "number"
+    }
+  ],
+  "Seat": [
+    {
+      "DraggingV1": "boolean"
+    },
+    {
+      "NetworkOwnershipRule": "Enum.NetworkOwnership"
+    },
+    {
+      "NetworkIsSleeping": "boolean"
+    },
+    {
+      "formFactorRaw": "Enum.FormFactor"
+    },
+    {
+      "shape": "Enum.PartType"
+    },
+    {
+      "size": "Vector3"
+    }
+  ],
+  "InsertService": [
+    {
+      "AllowClientInsertModels": "boolean"
+    }
+  ],
+  "StudioData": [
+    {
+      "CommitInflightPlaceVersion": "number"
+    },
+    {
+      "CommitInflightGuid": "string"
+    },
+    {
+      "CommitInflightAuthorId": "number"
+    }
+  ],
+  "BlockMesh": [
+    {
+      "Bevel Roundness": "number"
+    },
+    {
+      "Bevel": "number"
+    },
+    {
+      "LODY": "Enum.LevelOfDetailSetting"
+    },
+    {
+      "LODX": "Enum.LevelOfDetailSetting"
+    },
+    {
+      "Bulge": "number"
+    }
+  ],
+  "LocalScript": [
+    {
+      "CachedRemoteSource": "string"
+    },
+    {
+      "CachedRemoteSourceLoadState": "number"
+    },
+    {
+      "IsDifferentFromFileSystem": "boolean"
+    },
+    {
+      "HasAssociatedDrafts": "boolean"
+    },
+    {
+      "ScriptGuid": "string"
+    }
+  ],
+  "FlagStand": [
+    {
+      "DraggingV1": "boolean"
+    },
+    {
+      "NetworkOwnershipRule": "Enum.NetworkOwnership"
+    },
+    {
+      "NetworkIsSleeping": "boolean"
+    },
+    {
+      "formFactorRaw": "Enum.FormFactor"
+    },
+    {
+      "shape": "Enum.PartType"
+    },
+    {
+      "size": "Vector3"
+    }
+  ],
+  "Sound": [
+    {
+      "xmlRead_MaxDistance_3": "number"
+    },
+    {
+      "xmlRead_MinDistance_3": "number"
+    },
+    {
+      "TimePositionReplicator": "number"
+    },
+    {
+      "PlayingReplicator": "boolean"
+    }
+  ],
+  "Shirt": [
+    {
+      "Outfit1": "string"
+    },
+    {
+      "Outfit2": "string"
+    }
+  ],
+  "NegateOperation": [
+    {
+      "FormFactor": "Enum.FormFactor"
+    },
+    {
+      "MeshData": "string"
+    },
+    {
+      "InitialSize": "Vector3"
+    },
+    {
+      "NetworkOwnershipRule": "Enum.NetworkOwnership"
+    },
+    {
+      "NetworkIsSleeping": "boolean"
+    },
+    {
+      "AssetId": "string"
+    },
+    {
+      "LODData": "string"
+    },
+    {
+      "DraggingV1": "boolean"
+    },
+    {
+      "ChildData": "string"
+    },
+    {
+      "PhysicsData": "string"
+    },
+    {
+      "size": "Vector3"
+    }
+  ],
+  "UnionOperation": [
+    {
+      "FormFactor": "Enum.FormFactor"
+    },
+    {
+      "MeshData": "string"
+    },
+    {
+      "InitialSize": "Vector3"
+    },
+    {
+      "NetworkOwnershipRule": "Enum.NetworkOwnership"
+    },
+    {
+      "NetworkIsSleeping": "boolean"
+    },
+    {
+      "AssetId": "string"
+    },
+    {
+      "LODData": "string"
+    },
+    {
+      "DraggingV1": "boolean"
+    },
+    {
+      "ChildData": "string"
+    },
+    {
+      "PhysicsData": "string"
+    },
+    {
+      "size": "Vector3"
+    }
+  ],
+  "CylinderMesh": [
+    {
+      "Bevel Roundness": "number"
+    },
+    {
+      "Bevel": "number"
+    },
+    {
+      "LODY": "Enum.LevelOfDetailSetting"
+    },
+    {
+      "LODX": "Enum.LevelOfDetailSetting"
+    },
+    {
+      "Bulge": "number"
+    }
+  ],
+  "ServerScriptService": [
+    {
+      "LoadStringEnabled": "boolean"
+    }
+  ],
+  "Humanoid": [
+    {
+      "InternalBodyScale": "Vector3"
+    },
+    {
+      "InternalOriginalHipHeight": "number"
+    },
+    {
+      "CameraMode": "Enum.CameraMode"
+    },
+    {
+      "InternalHeadScale": "number"
+    },
+    {
+      "WalkDirection": "Vector3"
+    },
+    {
+      "JumpReplicate": "boolean"
+    },
+    {
+      "Health_XML": "number"
+    },
+    {
+      "CameraMinDistance": "number"
+    },
+    {
+      "MoveDirectionInternal": "Vector3"
+    },
+    {
+      "FloorMaterialInternal": "Enum.Material"
+    },
+    {
+      "CameraMaxDistance": "number"
+    },
+    {
+      "Strafe": "boolean"
+    },
+    {
+      "WalkAngleError": "number"
+    },
+    {
+      "NetworkHumanoidState": "Enum.HumanoidStateType"
+    }
+  ],
+  "Accoutrement": [
+    {
+      "BackendAccoutrementState": "number"
+    }
+  ],
+  "BinaryStringValue": [
+    {
+      "Value": "string"
+    }
+  ],
+  "CoreScript": [
+    {
+      "CachedRemoteSource": "string"
+    },
+    {
+      "CachedRemoteSourceLoadState": "number"
+    },
+    {
+      "ScriptGuid": "string"
+    },
+    {
+      "HasAssociatedDrafts": "boolean"
+    },
+    {
+      "IsDifferentFromFileSystem": "boolean"
+    }
+  ],
+  "TextBox": [
+    {
+      "DragBeginConnectionCount": "number"
+    },
+    {
+      "MouseLeaveConnectionCount": "number"
+    },
+    {
+      "MouseMovedConnectionCount": "number"
+    },
+    {
+      "MouseEnterConnectionCount": "number"
+    },
+    {
+      "DragStoppedConnectionCount": "number"
+    },
+    {
+      "IsNotOccluded": "boolean"
+    },
+    {
+      "MouseWheelForwardConnectionCount": "number"
+    },
+    {
+      "MouseWheelBackwardConnectionCount": "number"
+    },
+    {
+      "Confidential": "boolean"
+    },
+    {
+      "ReplicatedInsertionOrder": "number"
+    }
+  ],
+  "Frame": [
+    {
+      "DragBeginConnectionCount": "number"
+    },
+    {
+      "MouseWheelForwardConnectionCount": "number"
+    },
+    {
+      "MouseMovedConnectionCount": "number"
+    },
+    {
+      "MouseEnterConnectionCount": "number"
+    },
+    {
+      "DragStoppedConnectionCount": "number"
+    },
+    {
+      "IsNotOccluded": "boolean"
+    },
+    {
+      "MouseWheelBackwardConnectionCount": "number"
+    },
+    {
+      "MouseLeaveConnectionCount": "number"
+    },
+    {
+      "ReplicatedInsertionOrder": "number"
+    }
+  ],
+  "ViewportFrame": [
+    {
+      "CameraFieldOfView": "number"
+    },
+    {
+      "MouseMovedConnectionCount": "number"
+    },
+    {
+      "DragBeginConnectionCount": "number"
+    },
+    {
+      "MouseWheelForwardConnectionCount": "number"
+    },
+    {
+      "MouseEnterConnectionCount": "number"
+    },
+    {
+      "MouseWheelBackwardConnectionCount": "number"
+    },
+    {
+      "DragStoppedConnectionCount": "number"
+    },
+    {
+      "IsNotOccluded": "boolean"
+    },
+    {
+      "MouseLeaveConnectionCount": "number"
+    },
+    {
+      "CameraCFrame": "CFrame"
+    },
+    {
+      "ReplicatedInsertionOrder": "number"
+    }
+  ],
+  "LocalizationService": [
+    {
+      "ShouldUseCloudTable": "boolean"
+    },
+    {
+      "LocaleManifest": "string"
+    }
+  ],
+  "Fire": [
+    {
+      "heat_xml": "number"
+    },
+    {
+      "size_xml": "number"
+    }
+  ],
+  "Smoke": [
+    {
+      "riseVelocity_xml": "number"
+    },
+    {
+      "size_xml": "number"
+    },
+    {
+      "opacity_xml": "number"
+    }
+  ],
+  "HumanoidDescription": [
+    {
+      "EquippedEmotesDataInternal": "string"
+    },
+    {
+      "EmotesDataInternal": "string"
+    }
+  ],
+  "SpawnLocation": [
+    {
+      "NetworkOwnershipRule": "Enum.NetworkOwnership"
+    },
+    {
+      "NetworkIsSleeping": "boolean"
+    },
+    {
+      "formFactorRaw": "Enum.FormFactor"
+    },
+    {
+      "DraggingV1": "boolean"
+    },
+    {
+      "shape": "Enum.PartType"
+    },
+    {
+      "size": "Vector3"
+    }
+  ],
+  "PartOperation": [
+    {
+      "FormFactor": "Enum.FormFactor"
+    },
+    {
+      "MeshData": "string"
+    },
+    {
+      "InitialSize": "Vector3"
+    },
+    {
+      "NetworkOwnershipRule": "Enum.NetworkOwnership"
+    },
+    {
+      "NetworkIsSleeping": "boolean"
+    },
+    {
+      "AssetId": "string"
+    },
+    {
+      "LODData": "string"
+    },
+    {
+      "DraggingV1": "boolean"
+    },
+    {
+      "ChildData": "string"
+    },
+    {
+      "PhysicsData": "string"
+    },
+    {
+      "size": "Vector3"
+    }
+  ],
+  "Terrain": [
+    {
+      "MaterialColors": "string"
+    },
+    {
+      "DraggingV1": "boolean"
+    },
+    {
+      "NetworkOwnershipRule": "Enum.NetworkOwnership"
+    },
+    {
+      "NetworkIsSleeping": "boolean"
+    },
+    {
+      "Decoration": "boolean"
+    },
+    {
+      "SmoothGrid": "string"
+    },
+    {
+      "PhysicsGrid": "string"
+    },
+    {
+      "size": "Vector3"
+    }
+  ],
+  "Script": [
+    {
+      "CachedRemoteSource": "string"
+    },
+    {
+      "CachedRemoteSourceLoadState": "number"
+    },
+    {
+      "IsDifferentFromFileSystem": "boolean"
+    },
+    {
+      "HasAssociatedDrafts": "boolean"
+    },
+    {
+      "ScriptGuid": "string"
+    }
+  ],
+  "ScreenGui": [
+    {
+      "IsNotOccluded": "boolean"
+    },
+    {
+      "ReplicatedInsertionOrder": "number"
+    }
+  ],
+  "SpecialMesh": [
+    {
+      "LODY": "Enum.LevelOfDetailSetting"
+    },
+    {
+      "LODX": "Enum.LevelOfDetailSetting"
+    }
+  ],
+  "VersionControlService": [
+    {
+      "ForceDraftsUsage": "boolean"
+    },
+    {
+      "ScriptCollabEnabled": "boolean"
+    },
+    {
+      "ScriptCollabVersionHistoryEnabled": "boolean"
+    }
+  ],
+  "DataModel": [
+    {
+      "R15CollisionType": "Enum.R15CollisionType"
+    },
+    {
+      "AvatarJointPositionType": "Enum.AvatarJointPositionType"
+    },
+    {
+      "GameAvatarType": "Enum.GameAvatarType"
+    },
+    {
+      "ForceR15": "boolean"
+    }
+  ],
+  "VideoFrame": [
+    {
+      "DragStoppedConnectionCount": "number"
+    },
+    {
+      "DragBeginConnectionCount": "number"
+    },
+    {
+      "MouseWheelForwardConnectionCount": "number"
+    },
+    {
+      "MouseEnterConnectionCount": "number"
+    },
+    {
+      "TimePositionReplicating": "number"
+    },
+    {
+      "IsNotOccluded": "boolean"
+    },
+    {
+      "MouseMovedConnectionCount": "number"
+    },
+    {
+      "MouseWheelBackwardConnectionCount": "number"
+    },
+    {
+      "MouseLeaveConnectionCount": "number"
+    },
+    {
+      "PlayingReplicating": "boolean"
+    },
+    {
+      "ReplicatedInsertionOrder": "number"
+    }
+  ],
+  "Part": [
+    {
+      "DraggingV1": "boolean"
+    },
+    {
+      "NetworkOwnershipRule": "Enum.NetworkOwnership"
+    },
+    {
+      "NetworkIsSleeping": "boolean"
+    },
+    {
+      "formFactorRaw": "Enum.FormFactor"
+    },
+    {
+      "shape": "Enum.PartType"
+    },
+    {
+      "size": "Vector3"
+    }
+  ],
+  "Status": [
+    {
+      "ModelInPrimary": "CFrame"
+    }
+  ],
+  "BillboardGui": [
+    {
+      "IsNotOccluded": "boolean"
+    },
+    {
+      "ReplicatedInsertionOrder": "number"
+    }
+  ],
+  "RocketPropulsion": [
+    {
+      "Active": "boolean"
+    }
+  ],
+  "CornerWedgePart": [
+    {
+      "DraggingV1": "boolean"
+    },
+    {
+      "NetworkOwnershipRule": "Enum.NetworkOwnership"
+    },
+    {
+      "NetworkIsSleeping": "boolean"
+    },
+    {
+      "size": "Vector3"
+    }
+  ],
+  "DoubleConstrainedValue": [
+    {
+      "value": "number"
+    }
+  ],
+  "FunctionalTest": [
+    {
+      "AllowSleep": "boolean"
+    },
+    {
+      "PhysicsEnvironmentalThrottle": "boolean"
+    },
+    {
+      "Timeout": "number"
+    },
+    {
+      "HasMigratedSettingsToTestService": "boolean"
+    },
+    {
+      "Is30FpsThrottleEnabled": "boolean"
+    }
+  ],
+  "CustomEvent": [
+    {
+      "PersistedCurrentValue": "number"
+    }
+  ],
+  "Model": [
+    {
+      "ModelInPrimary": "CFrame"
+    }
+  ],
+  "Pants": [
+    {
+      "Outfit1": "string"
+    },
+    {
+      "Outfit2": "string"
+    }
+  ],
+  "Accessory": [
+    {
+      "BackendAccoutrementState": "number"
+    }
+  ],
+  "IntConstrainedValue": [
+    {
+      "value": "number"
+    }
+  ],
+  "SurfaceGui": [
+    {
+      "IsNotOccluded": "boolean"
+    },
+    {
+      "ReplicatedInsertionOrder": "number"
+    }
+  ],
+  "ManualWeld": [
+    {
+      "Surface0": "number"
+    },
+    {
+      "Surface1": "number"
+    }
+  ],
+  "ImageLabel": [
+    {
+      "DragBeginConnectionCount": "number"
+    },
+    {
+      "MouseWheelForwardConnectionCount": "number"
+    },
+    {
+      "DragStoppedConnectionCount": "number"
+    },
+    {
+      "IsNotOccluded": "boolean"
+    },
+    {
+      "MouseMovedConnectionCount": "number"
+    },
+    {
+      "MouseWheelBackwardConnectionCount": "number"
+    },
+    {
+      "MouseEnterConnectionCount": "number"
+    },
+    {
+      "MouseLeaveConnectionCount": "number"
+    },
+    {
+      "ReplicatedInsertionOrder": "number"
+    }
+  ],
+  "ManualGlue": [
+    {
+      "Surface0": "number"
+    },
+    {
+      "Surface1": "number"
+    }
+  ],
+  "ImageButton": [
+    {
+      "MouseButton2ClickConnectionCount": "number"
+    },
+    {
+      "MouseButton1DownConnectionCount": "number"
+    },
+    {
+      "MouseButton1ClickConnectionCount": "number"
+    },
+    {
+      "MouseWheelForwardConnectionCount": "number"
+    },
+    {
+      "MouseEnterConnectionCount": "number"
+    },
+    {
+      "MouseMovedConnectionCount": "number"
+    },
+    {
+      "IsNotOccluded": "boolean"
+    },
+    {
+      "ReplicatedInsertionOrder": "number"
+    },
+    {
+      "MouseButton2DownConnectionCount": "number"
+    },
+    {
+      "MouseButton2UpConnectionCount": "number"
+    },
+    {
+      "DragBeginConnectionCount": "number"
+    },
+    {
+      "MouseWheelBackwardConnectionCount": "number"
+    },
+    {
+      "MouseButton1UpConnectionCount": "number"
+    },
+    {
+      "MouseLeaveConnectionCount": "number"
+    },
+    {
+      "DragStoppedConnectionCount": "number"
+    }
+  ],
+  "SkateboardPlatform": [
+    {
+      "DraggingV1": "boolean"
+    },
+    {
+      "NetworkOwnershipRule": "Enum.NetworkOwnership"
+    },
+    {
+      "NetworkIsSleeping": "boolean"
+    },
+    {
+      "MoveState": "Enum.MoveState"
+    },
+    {
+      "formFactorRaw": "Enum.FormFactor"
+    },
+    {
+      "shape": "Enum.PartType"
+    },
+    {
+      "size": "Vector3"
+    }
+  ],
+  "LocalizationTable": [
+    {
+      "Contents": "string"
+    },
+    {
+      "IsExemptFromUGCAnalytics": "boolean"
+    }
+  ],
+  "ModuleScript": [
+    {
+      "CachedRemoteSource": "string"
+    },
+    {
+      "ScriptGuid": "string"
+    },
+    {
+      "IsDifferentFromFileSystem": "boolean"
+    },
+    {
+      "CachedRemoteSourceLoadState": "number"
+    },
+    {
+      "HasAssociatedDrafts": "boolean"
+    },
+    {
+      "Confidential": "boolean"
+    }
+  ],
+  "Handles": [
+    {
+      "MouseButton1UpConnectionCount": "number"
+    },
+    {
+      "MouseDragConnectionCount": "number"
+    },
+    {
+      "MouseButton1DownConnectionCount": "number"
+    },
+    {
+      "MouseLeaveConnectionCount": "number"
+    },
+    {
+      "MouseEnterConnectionCount": "number"
+    }
+  ],
+  "Hat": [
+    {
+      "BackendAccoutrementState": "number"
+    }
+  ],
+  "TerrainRegion": [
+    {
+      "SmoothGrid": "string"
+    }
+  ],
+  "PartOperationAsset": [
+    {
+      "MeshData": "string"
+    },
+    {
+      "ChildData": "string"
+    }
+  ],
+  "VehicleSeat": [
+    {
+      "DraggingV1": "boolean"
+    },
+    {
+      "NetworkOwnershipRule": "Enum.NetworkOwnership"
+    },
+    {
+      "NetworkIsSleeping": "boolean"
+    },
+    {
+      "size": "Vector3"
+    }
+  ],
+  "BallSocketConstraint": [
+    {
+      "MaxFrictionTorqueXml": "number"
+    }
+  ],
+  "Lighting": [
+    {
+      "Technology": "Enum.Technology"
+    }
+  ],
+  "ArcHandles": [
+    {
+      "MouseButton1UpConnectionCount": "number"
+    },
+    {
+      "MouseDragConnectionCount": "number"
+    },
+    {
+      "MouseButton1DownConnectionCount": "number"
+    },
+    {
+      "MouseLeaveConnectionCount": "number"
+    },
+    {
+      "MouseEnterConnectionCount": "number"
+    }
+  ],
+  "GuiMain": [
+    {
+      "IsNotOccluded": "boolean"
+    },
+    {
+      "ReplicatedInsertionOrder": "number"
+    }
+  ],
+  "TextLabel": [
+    {
+      "Confidential": "boolean"
+    },
+    {
+      "DragBeginConnectionCount": "number"
+    },
+    {
+      "MouseLeaveConnectionCount": "number"
+    },
+    {
+      "MouseEnterConnectionCount": "number"
+    },
+    {
+      "DragStoppedConnectionCount": "number"
+    },
+    {
+      "MouseMovedConnectionCount": "number"
+    },
+    {
+      "IsNotOccluded": "boolean"
+    },
+    {
+      "MouseWheelBackwardConnectionCount": "number"
+    },
+    {
+      "MouseWheelForwardConnectionCount": "number"
+    },
+    {
+      "ReplicatedInsertionOrder": "number"
+    }
+  ],
+  "ScrollingFrame": [
+    {
+      "DragBeginConnectionCount": "number"
+    },
+    {
+      "MouseLeaveConnectionCount": "number"
+    },
+    {
+      "MouseWheelBackwardConnectionCount": "number"
+    },
+    {
+      "MouseMovedConnectionCount": "number"
+    },
+    {
+      "DragStoppedConnectionCount": "number"
+    },
+    {
+      "IsNotOccluded": "boolean"
+    },
+    {
+      "MouseWheelForwardConnectionCount": "number"
+    },
+    {
+      "MouseEnterConnectionCount": "number"
+    },
+    {
+      "ReplicatedInsertionOrder": "number"
+    }
+  ],
+  "Workspace": [
+    {
+      "StreamingPauseMode": "Enum.StreamingPauseMode"
+    },
+    {
+      "ExpSolverEnabled_Replicate": "boolean"
+    },
+    {
+      "TemporaryLegacyPhysicsSolverOverrideStreaming": "boolean"
+    },
+    {
+      "CollisionGroups": "string"
+    },
+    {
+      "ModelInPrimary": "CFrame"
+    },
+    {
+      "ExplicitAutoJoints": "boolean"
+    },
+    {
+      "SkinnedMeshEnabled": "Enum.SkinnedMeshAllowType"
+    },
+    {
+      "PhysicsSimulationRateReplicator": "Enum.PhysicsSimulationRate"
+    },
+    {
+      "StreamingTargetRadius": "number"
+    },
+    {
+      "StreamingMinRadius": "number"
+    },
+    {
+      "DataModelPlaceVersion": "number"
+    },
+    {
+      "TemporaryLegacyPhysicsSolverOverride": "boolean"
+    },
+    {
+      "TerrainWeldsFixed": "boolean"
+    }
+  ],
+  "Player": [
+    {
+      "ChatPrivacyMode": "Enum.ChatPrivacyMode"
+    },
+    {
+      "ReplicatedLocaleId": "string"
+    },
+    {
+      "FollowUserIdReplicated": "number"
+    },
+    {
+      "ChararacterRegionId": "Vector3"
+    },
+    {
+      "ReplicatedLocaleIdInternal": "string"
+    },
+    {
+      "CloudEditPlayerActive": "boolean"
+    },
+    {
+      "MembershipTypeReplicate": "Enum.MembershipType"
+    },
+    {
+      "RawJoinData": "string"
+    },
+    {
+      "SimulationRadius": "number"
+    },
+    {
+      "CountryRegionCodeReplicate": "string"
+    },
+    {
+      "CloudEditCameraCoordinateFrame": "CFrame"
+    },
+    {
+      "AccountAgeReplicate": "number"
+    },
+    {
+      "MaxSimulationRadius": "number"
+    },
+    {
+      "InternalCharacterAppearanceLoaded": "boolean"
+    },
+    {
+      "SuperSafeChatReplicate": "boolean"
+    }
+  ],
+  "WeldConstraint": [
+    {
+      "CFrame1": "CFrame"
+    },
+    {
+      "CFrame0": "CFrame"
+    }
+  ],
+  "WorldModel": [
+    {
+      "ModelInPrimary": "CFrame"
+    }
+  ],
+  "MeshPart": [
+    {
+      "InitialSize": "Vector3"
+    },
+    {
+      "DraggingV1": "boolean"
+    },
+    {
+      "PhysicsData": "string"
+    },
+    {
+      "NetworkIsSleeping": "boolean"
+    },
+    {
+      "MeshID": "string"
+    },
+    {
+      "LODData": "string"
+    },
+    {
+      "NetworkOwnershipRule": "Enum.NetworkOwnership"
+    },
+    {
+      "size": "Vector3"
+    }
+  ],
+  "TrussPart": [
+    {
+      "style": "Enum.Style"
+    },
+    {
+      "DraggingV1": "boolean"
+    },
+    {
+      "NetworkOwnershipRule": "Enum.NetworkOwnership"
+    },
+    {
+      "NetworkIsSleeping": "boolean"
+    },
+    {
+      "size": "Vector3"
+    }
+  ],
+  "FileMesh": [
+    {
+      "LODY": "Enum.LevelOfDetailSetting"
+    },
+    {
+      "LODX": "Enum.LevelOfDetailSetting"
+    }
+  ]
+}
